@@ -26,7 +26,7 @@
 #headname
 {
     float: left;
-    font-family: 'Cinzel Decorative';
+    font-family: 'Cinzel Decorative', cursive;
     padding-left: 30px;
     padding-top: 20px;
     font-size: 20px;
@@ -74,7 +74,7 @@
 
 #mainText
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     float: left;
     font-size: 85px;
@@ -118,7 +118,7 @@
 
 #div1_content_1
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     float: left;
     font-size: 70px;
@@ -135,7 +135,7 @@
 #div1_content_2
 {
     padding-top: 20px;
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     float: left;
     font-size: 70px;
@@ -152,7 +152,7 @@
 #div1_content_3
 {
     padding-top: 20px;
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     float: left;
     font-size: 70px;
@@ -169,7 +169,7 @@
 #div1_content_4
 {
     padding-top: 20px;
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     float: left;
     font-size: 70px;
@@ -185,7 +185,7 @@
 
 #div_1-2_header
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-size: 60px;
     font-weight: bold;
     padding-bottom: 10px;
@@ -308,7 +308,7 @@
 
 #div2_header
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-size: 60px;
     font-weight: bold;
 }
@@ -347,7 +347,7 @@
 
 #div2_left_content_desc
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-size: 30px;
     font-weight: bold;
 }
@@ -387,7 +387,7 @@
 
 #div2_right_content_desc
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-size: 30px;
     font-weight: bold;
 }
@@ -426,7 +426,7 @@
 
 #div2_center_content_desc
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-size: 30px;
     font-weight: bold;
 }
@@ -469,7 +469,7 @@
 
 #div3_header
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-size: 60px;
     font-weight: bold;
     padding-bottom: 10px;
@@ -520,7 +520,7 @@
 
 th
 {
-    font-family: Cinzel Decorative;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
     color: white;
     text-align: start;
