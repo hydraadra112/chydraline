@@ -65,34 +65,11 @@
 
 #mainlogo
 {
-    width: 200px;
+    width: 500px;
     height: auto;
     float: left;
-    padding-left: 100px;
-    padding-top: 200px;
-}
-
-#mainText
-{
-    font-family: 'Cinzel Decorative', cursive;
-    font-weight: bold;
-    float: left;
-    font-size: 85px;
-    color:white;
-    padding-left: 30px;
-    padding-top: 180px;
-    text-shadow: 0px 2px 2px #3f3f3f;
-}
-
-#description
-{
-    font-family: Arial;
-    font-size: 12;
-    color: white;
-    font-weight: 600;
-    padding-left: 340px;
-    padding-top: 450px;
-    text-shadow: 0px 2px 2px #3f3f3f;
+    padding-left: 180px;
+    padding-top: 80px;
 }
 
 #div1_for_pic
