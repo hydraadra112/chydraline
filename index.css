@@ -1,3 +1,15 @@
+@font-face 
+{
+    
+  font-family: 'Cinzel Decorative';
+  src: url('Cinzel-Black.otf') format('otf'),
+       url('Cinzel-Bold.otf') format('otf'),
+       url('Cinzel-Regular.otf') format('otf'),
+       url('CinzelDecorative-Black.otf') format('otf'),
+       url('CinzelDecorative-Bold.otf') format('otf'),
+       url('CinzelDecorative-Regular.otf') format('otf');
+}
+
 
 #body
 {
